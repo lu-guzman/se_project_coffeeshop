@@ -131,8 +131,11 @@
   list-style-type: none;
 }
 
+iframe {
+  border: none;
+}
+
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
 }
-/*
